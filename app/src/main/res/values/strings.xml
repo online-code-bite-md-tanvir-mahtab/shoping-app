@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myTask</string>
+    <string name="enter_your_email_id">Enter your email Id</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="database_name">user</string>
+</resources>
